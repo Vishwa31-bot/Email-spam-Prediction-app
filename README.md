@@ -18,12 +18,6 @@ Built with: Streamlit, Pandas, Scikit-learn, Python
 🚀 Try it Online
 👉 https://email-spam-prediction-app-nncxjhadoaumpggnam6voh.streamlit.app/
 
-📦 Run Locally
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/email-spam-detector.git
-cd email-spam-detector
-pip install -r requirements.txt
-streamlit run app.py
+
+
