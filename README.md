@@ -15,6 +15,9 @@ Dataset: Contains labeled email messages (spam or ham)
 
 Built with: Streamlit, Pandas, Python
 
+🚀 Try it Online
+👉 https://email-spam-prediction-app-nncxjhadoaumpggnam6voh.streamlit.app/
+
 Output:
 
 ![Uploading image.png…]()
@@ -22,8 +25,7 @@ Output:
 
 
 
-🚀 Try it Online
-👉 https://email-spam-prediction-app-nncxjhadoaumpggnam6voh.streamlit.app/
+
 
 
 
