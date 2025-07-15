@@ -20,7 +20,8 @@ Built with: Streamlit, Pandas, Python
 
 Output:
 
-![Uploading image.png…]()
+<img width="799" height="718" alt="image" src="https://github.com/user-attachments/assets/c7431265-9df6-445f-85d2-7f1d5c31735f" />
+
 
 
 
