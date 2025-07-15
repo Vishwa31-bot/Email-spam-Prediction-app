@@ -13,7 +13,14 @@ ML Model: Trained using Naive Bayes (or other classifiers)
 
 Dataset: Contains labeled email messages (spam or ham)
 
-Built with: Streamlit, Pandas, Scikit-learn, Python
+Built with: Streamlit, Pandas, Python
+
+Output:
+
+![Uploading image.png…]()
+
+
+
 
 🚀 Try it Online
 👉 https://email-spam-prediction-app-nncxjhadoaumpggnam6voh.streamlit.app/
